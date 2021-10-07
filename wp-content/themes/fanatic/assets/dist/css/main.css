@@ -1,0 +1,24 @@
+/* Style the form */
+#regForm { background-color: #ffffff; margin: 100px auto; padding: 40px; width: 70%; min-width: 300px; }
+
+/* Style the input fields */
+input { padding: 10px; width: 100%; font-size: 17px; font-family: Raleway; border: 1px solid #aaaaaa; }
+
+/* Mark input boxes that gets an error on validation: */
+input.invalid { background-color: #ffdddd; }
+
+/* Hide all steps by default: */
+.tab { display: none; }
+
+/* Make circles that indicate the steps of the form: */
+.step { height: 15px; width: 15px; margin: 0 2px; background-color: #bbbbbb; border: none; border-radius: 50%; display: inline-block; opacity: 0.5; }
+
+/* Mark the active step: */
+.step.active { opacity: 1; }
+
+/* Mark the steps that are finished and valid: */
+.step.finish { background-color: #04AA6D; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5jc3MiLCJzb3VyY2VzIjpbIm1haW4uc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxvQkFBb0I7QUFDcEIsQUFBQSxRQUFRLENBQUMsRUFDUCxnQkFBZ0IsRUFBRSxPQUFPLEVBQ3pCLE1BQU0sRUFBRSxVQUFVLEVBQ2xCLE9BQU8sRUFBRSxJQUFJLEVBQ2IsS0FBSyxFQUFFLEdBQUcsRUFDVixTQUFTLEVBQUUsS0FBSyxHQUNqQjs7QUFFRCw0QkFBNEI7QUFDNUIsQUFBQSxLQUFLLENBQUMsRUFDSixPQUFPLEVBQUUsSUFBSSxFQUNiLEtBQUssRUFBRSxJQUFJLEVBQ1gsU0FBUyxFQUFFLElBQUksRUFDZixXQUFXLEVBQUUsT0FBTyxFQUNwQixNQUFNLEVBQUUsaUJBQWlCLEdBQzFCOztBQUVELHdEQUF3RDtBQUN4RCxBQUFBLEtBQUssQUFBQSxRQUFRLENBQUMsRUFDWixnQkFBZ0IsRUFBRSxPQUFPLEdBQzFCOztBQUVELGdDQUFnQztBQUNoQyxBQUFBLElBQUksQ0FBQyxFQUNILE9BQU8sRUFBRSxJQUFJLEdBQ2Q7O0FBRUQsdURBQXVEO0FBQ3ZELEFBQUEsS0FBSyxDQUFDLEVBQ0osTUFBTSxFQUFFLElBQUksRUFDWixLQUFLLEVBQUUsSUFBSSxFQUNYLE1BQU0sRUFBRSxLQUFLLEVBQ2IsZ0JBQWdCLEVBQUUsT0FBTyxFQUN6QixNQUFNLEVBQUUsSUFBSSxFQUNaLGFBQWEsRUFBRSxHQUFHLEVBQ2xCLE9BQU8sRUFBRSxZQUFZLEVBQ3JCLE9BQU8sRUFBRSxHQUFHLEdBQ2I7O0FBRUQsMkJBQTJCO0FBQzNCLEFBQUEsS0FBSyxBQUFBLE9BQU8sQ0FBQyxFQUNYLE9BQU8sRUFBRSxDQUFDLEdBQ1g7O0FBRUQsaURBQWlEO0FBQ2pELEFBQUEsS0FBSyxBQUFBLE9BQU8sQ0FBQyxFQUNYLGdCQUFnQixFQUFFLE9BQU8sR0FDMUIifQ== */
+
+/*# sourceMappingURL=main.css.map */
